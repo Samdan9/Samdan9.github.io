@@ -1,9 +1,9 @@
-// Created by iWeb 3.0.4 local-build-20200413
+// Created by iWeb 3.0.4 local-build-20200417
 
 setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {loadMozillaCSS('Twitch_info_files/Twitch_infoMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');Widget.onload();fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
