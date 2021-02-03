@@ -1,0 +1,67 @@
+.para1{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style2{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 35px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para3{font-size: 0; text-align:left; padding-bottom:14px; margin-top:0px; padding-top:0px;}
+.Style4{font-family:  'CourierNewPSMT', 'Courier New' ,monospace ;
+ font-size: 18px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style5{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 25px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style6{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 25px; 
+ font-weight:700; 
+ margin:0;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para7{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style8{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 35px; 
+ font-weight:700; 
+ margin:0;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style9{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 24px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style10{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 24px; 
+ font-weight:700; 
+ margin:0;
+ color: #FEFFFF;
+ word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.linkStyle_14{font-family:  'CourierNewPS-BoldItalicMT', 'Courier New' ,monospace ;
+ font-size: 18px; 
+ font-weight:700; 
+ font-style: italic;
+ color: #FEFEFE;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #FEFEFE #FEFEFE */
+ text-shadow: 0.0000px 0.0000px 0.0px rgba(255,254,254,0.0);
+ word-wrap: break-word;}
+.linkStyle_14:visited{color:#FEFEFE; text-decoration:none;}
+.linkStyle_14:hover{color:#FEFEFE; text-decoration:none;}
+.Style17{font-family:  'CourierNewPSMT', 'Courier New' ,monospace ;
+ font-size: 22px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.linkStyle_18{font-family:  'CourierNewPS-BoldMT', 'Courier New' ,monospace ;
+ font-size: 24px; 
+ font-weight:700; 
+ color: #FEFEFE;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #FEFEFE #FEFEFE */
+ word-wrap: break-word;}
+.linkStyle_18:visited{color:#FEFEFE; text-decoration:underline;}
+.linkStyle_18:hover{color:#FEFEFE; text-decoration:underline;}
